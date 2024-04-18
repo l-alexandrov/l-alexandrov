@@ -27,9 +27,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#160](https://github.com/Bimbalacom/bimbalacom/pull/160) in [Bimbalacom/bimbalacom](https://github.com/Bimbalacom/bimbalacom)
-2. 💪 Opened PR [#160](https://github.com/Bimbalacom/bimbalacom/pull/160) in [Bimbalacom/bimbalacom](https://github.com/Bimbalacom/bimbalacom)
-3. 🎉 Merged PR [#159](https://github.com/Bimbalacom/bimbalacom/pull/159) in [Bimbalacom/bimbalacom](https://github.com/Bimbalacom/bimbalacom)
-4. 💪 Opened PR [#159](https://github.com/Bimbalacom/bimbalacom/pull/159) in [Bimbalacom/bimbalacom](https://github.com/Bimbalacom/bimbalacom)
-5. 🎉 Merged PR [#157](https://github.com/Bimbalacom/bimbalacom/pull/157) in [Bimbalacom/bimbalacom](https://github.com/Bimbalacom/bimbalacom)
+1. 💪 Opened PR [#162](https://github.com/Bimbalacom/bimbalacom/pull/162) in [Bimbalacom/bimbalacom](https://github.com/Bimbalacom/bimbalacom)
+2. 🎉 Merged PR [#161](https://github.com/Bimbalacom/bimbalacom/pull/161) in [Bimbalacom/bimbalacom](https://github.com/Bimbalacom/bimbalacom)
+3. 💪 Opened PR [#161](https://github.com/Bimbalacom/bimbalacom/pull/161) in [Bimbalacom/bimbalacom](https://github.com/Bimbalacom/bimbalacom)
+4. 🎉 Merged PR [#160](https://github.com/Bimbalacom/bimbalacom/pull/160) in [Bimbalacom/bimbalacom](https://github.com/Bimbalacom/bimbalacom)
+5. 💪 Opened PR [#160](https://github.com/Bimbalacom/bimbalacom/pull/160) in [Bimbalacom/bimbalacom](https://github.com/Bimbalacom/bimbalacom)
 <!--END_SECTION:activity-->
