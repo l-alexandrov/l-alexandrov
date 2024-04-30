@@ -27,9 +27,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#164](https://github.com/Bimbalacom/bimbalacom/pull/164) in [Bimbalacom/bimbalacom](https://github.com/Bimbalacom/bimbalacom)
-2. 💪 Opened PR [#164](https://github.com/Bimbalacom/bimbalacom/pull/164) in [Bimbalacom/bimbalacom](https://github.com/Bimbalacom/bimbalacom)
-3. 🚀 Published release [v1.0.3](https://github.com/Bimbalacom/Desktop/releases/tag/v1.0.3) in [Bimbalacom/Desktop](https://github.com/Bimbalacom/Desktop)
-4. 🎉 Merged PR [#163](https://github.com/Bimbalacom/bimbalacom/pull/163) in [Bimbalacom/bimbalacom](https://github.com/Bimbalacom/bimbalacom)
-5. 🎉 Merged PR [#162](https://github.com/Bimbalacom/bimbalacom/pull/162) in [Bimbalacom/bimbalacom](https://github.com/Bimbalacom/bimbalacom)
+1. 🎉 Merged PR [#165](https://github.com/Bimbalacom/bimbalacom/pull/165) in [Bimbalacom/bimbalacom](https://github.com/Bimbalacom/bimbalacom)
+2. 💪 Opened PR [#165](https://github.com/Bimbalacom/bimbalacom/pull/165) in [Bimbalacom/bimbalacom](https://github.com/Bimbalacom/bimbalacom)
+3. 🎉 Merged PR [#164](https://github.com/Bimbalacom/bimbalacom/pull/164) in [Bimbalacom/bimbalacom](https://github.com/Bimbalacom/bimbalacom)
+4. 💪 Opened PR [#164](https://github.com/Bimbalacom/bimbalacom/pull/164) in [Bimbalacom/bimbalacom](https://github.com/Bimbalacom/bimbalacom)
+5. 🚀 Published release [v1.0.3](https://github.com/Bimbalacom/Desktop/releases/tag/v1.0.3) in [Bimbalacom/Desktop](https://github.com/Bimbalacom/Desktop)
 <!--END_SECTION:activity-->
