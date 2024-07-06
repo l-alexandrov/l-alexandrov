@@ -27,9 +27,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#167](https://github.com/Bimbalacom/bimbalacom/pull/167) in [Bimbalacom/bimbalacom](https://github.com/Bimbalacom/bimbalacom)
-2. 💪 Opened PR [#167](https://github.com/Bimbalacom/bimbalacom/pull/167) in [Bimbalacom/bimbalacom](https://github.com/Bimbalacom/bimbalacom)
-3. ❗ Opened issue [#1488](https://github.com/laravel/jetstream/issues/1488) in [laravel/jetstream](https://github.com/laravel/jetstream)
-4. 🎉 Merged PR [#166](https://github.com/Bimbalacom/bimbalacom/pull/166) in [Bimbalacom/bimbalacom](https://github.com/Bimbalacom/bimbalacom)
-5. 💪 Opened PR [#166](https://github.com/Bimbalacom/bimbalacom/pull/166) in [Bimbalacom/bimbalacom](https://github.com/Bimbalacom/bimbalacom)
+1. 🎉 Merged PR [#4](https://github.com/l-alexandrov/personal-website/pull/4) in [l-alexandrov/personal-website](https://github.com/l-alexandrov/personal-website)
+2. 💪 Opened PR [#4](https://github.com/l-alexandrov/personal-website/pull/4) in [l-alexandrov/personal-website](https://github.com/l-alexandrov/personal-website)
+3. 🎉 Merged PR [#167](https://github.com/Bimbalacom/bimbalacom/pull/167) in [Bimbalacom/bimbalacom](https://github.com/Bimbalacom/bimbalacom)
+4. 💪 Opened PR [#167](https://github.com/Bimbalacom/bimbalacom/pull/167) in [Bimbalacom/bimbalacom](https://github.com/Bimbalacom/bimbalacom)
+5. ❗ Opened issue [#1488](https://github.com/laravel/jetstream/issues/1488) in [laravel/jetstream](https://github.com/laravel/jetstream)
 <!--END_SECTION:activity-->
