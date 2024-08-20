@@ -27,9 +27,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/l-alexandrov/personal-website/pull/4) in [l-alexandrov/personal-website](https://github.com/l-alexandrov/personal-website)
-2. 💪 Opened PR [#4](https://github.com/l-alexandrov/personal-website/pull/4) in [l-alexandrov/personal-website](https://github.com/l-alexandrov/personal-website)
-3. 🎉 Merged PR [#167](https://github.com/Bimbalacom/bimbalacom/pull/167) in [Bimbalacom/bimbalacom](https://github.com/Bimbalacom/bimbalacom)
-4. 💪 Opened PR [#167](https://github.com/Bimbalacom/bimbalacom/pull/167) in [Bimbalacom/bimbalacom](https://github.com/Bimbalacom/bimbalacom)
-5. ❗ Opened issue [#1488](https://github.com/laravel/jetstream/issues/1488) in [laravel/jetstream](https://github.com/laravel/jetstream)
+1. 🎉 Merged PR [#59](https://github.com/l-alexandrov/RadioCast/pull/59) in [l-alexandrov/RadioCast](https://github.com/l-alexandrov/RadioCast)
+2. 🎉 Merged PR [#60](https://github.com/l-alexandrov/RadioCast/pull/60) in [l-alexandrov/RadioCast](https://github.com/l-alexandrov/RadioCast)
+3. 🎉 Merged PR [#58](https://github.com/l-alexandrov/RadioCast/pull/58) in [l-alexandrov/RadioCast](https://github.com/l-alexandrov/RadioCast)
+4. 🎉 Merged PR [#57](https://github.com/l-alexandrov/RadioCast/pull/57) in [l-alexandrov/RadioCast](https://github.com/l-alexandrov/RadioCast)
+5. 🎉 Merged PR [#4](https://github.com/l-alexandrov/personal-website/pull/4) in [l-alexandrov/personal-website](https://github.com/l-alexandrov/personal-website)
 <!--END_SECTION:activity-->
