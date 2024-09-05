@@ -27,9 +27,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#8](https://github.com/l-alexandrov/personal-website/pull/8) in [l-alexandrov/personal-website](https://github.com/l-alexandrov/personal-website)
-2. 💪 Opened PR [#8](https://github.com/l-alexandrov/personal-website/pull/8) in [l-alexandrov/personal-website](https://github.com/l-alexandrov/personal-website)
-3. 🎉 Merged PR [#7](https://github.com/l-alexandrov/personal-website/pull/7) in [l-alexandrov/personal-website](https://github.com/l-alexandrov/personal-website)
-4. 💪 Opened PR [#7](https://github.com/l-alexandrov/personal-website/pull/7) in [l-alexandrov/personal-website](https://github.com/l-alexandrov/personal-website)
-5. 🎉 Merged PR [#6](https://github.com/l-alexandrov/personal-website/pull/6) in [l-alexandrov/personal-website](https://github.com/l-alexandrov/personal-website)
+1. 🎉 Merged PR [#61](https://github.com/l-alexandrov/RadioCast/pull/61) in [l-alexandrov/RadioCast](https://github.com/l-alexandrov/RadioCast)
+2. 💪 Opened PR [#9](https://github.com/l-alexandrov/personal-website/pull/9) in [l-alexandrov/personal-website](https://github.com/l-alexandrov/personal-website)
+3. ❌ Closed PR [#8](https://github.com/l-alexandrov/personal-website/pull/8) in [l-alexandrov/personal-website](https://github.com/l-alexandrov/personal-website)
+4. 💪 Opened PR [#8](https://github.com/l-alexandrov/personal-website/pull/8) in [l-alexandrov/personal-website](https://github.com/l-alexandrov/personal-website)
+5. 🎉 Merged PR [#7](https://github.com/l-alexandrov/personal-website/pull/7) in [l-alexandrov/personal-website](https://github.com/l-alexandrov/personal-website)
 <!--END_SECTION:activity-->
