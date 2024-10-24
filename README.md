@@ -27,9 +27,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#12](https://github.com/l-alexandrov/Calculator/pull/12) in [l-alexandrov/Calculator](https://github.com/l-alexandrov/Calculator)
-2. ❗ Opened issue [#4003](https://github.com/kamailio/kamailio/issues/4003) in [kamailio/kamailio](https://github.com/kamailio/kamailio)
-3. 🎉 Merged PR [#65](https://github.com/l-alexandrov/RadioCast/pull/65) in [l-alexandrov/RadioCast](https://github.com/l-alexandrov/RadioCast)
-4. 🎉 Merged PR [#64](https://github.com/l-alexandrov/RadioCast/pull/64) in [l-alexandrov/RadioCast](https://github.com/l-alexandrov/RadioCast)
-5. 🎉 Merged PR [#62](https://github.com/l-alexandrov/RadioCast/pull/62) in [l-alexandrov/RadioCast](https://github.com/l-alexandrov/RadioCast)
+1. ❗ Opened issue [#3459](https://github.com/meetecho/janus-gateway/issues/3459) in [meetecho/janus-gateway](https://github.com/meetecho/janus-gateway)
+2. 🗣 Commented on [#4003](https://github.com/kamailio/kamailio/issues/4003#issuecomment-2429669919) in [kamailio/kamailio](https://github.com/kamailio/kamailio)
+3. 🔒 Closed issue [#4003](https://github.com/kamailio/kamailio/issues/4003) in [kamailio/kamailio](https://github.com/kamailio/kamailio)
+4. 🎉 Merged PR [#12](https://github.com/l-alexandrov/Calculator/pull/12) in [l-alexandrov/Calculator](https://github.com/l-alexandrov/Calculator)
+5. ❗ Opened issue [#4003](https://github.com/kamailio/kamailio/issues/4003) in [kamailio/kamailio](https://github.com/kamailio/kamailio)
 <!--END_SECTION:activity-->
